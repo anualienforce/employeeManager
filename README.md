@@ -144,7 +144,7 @@ flutterfire configure --project=employee-manager-6da28 (from root project)
 
 ## 🎥 Demo Video
 
-📹 **[Watch Complete Demo]([https://www.loom.com/share/your-video-id](https://drive.google.com/file/d/1HijBu6bXeGwxxiccCmg7Yizb_wLcBqnT/view?usp=sharing))**
+📹 **[Watch Complete Demo](https://drive.google.com/file/d/1HijBu6bXeGwxxiccCmg7Yizb_wLcBqnT/view?usp=sharing)**
 
 **Demo showcases:**
 - Adding new employees
