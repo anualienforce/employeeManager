@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363704117925",
+    "project_id": "employee-manager-6da28",
+    "storage_bucket": "employee-manager-6da28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363704117925:android:c26e18f505af874fc83b4c",
+        "android_client_info": {
+          "package_name": "com.example.employeemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4D-MaD1LHVdruYJHnF_gzBDB-64VlSxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
